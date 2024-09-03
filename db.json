@@ -1,0 +1,25 @@
+{
+  "Products" : [
+
+    { "id"  : 1,
+      "name" : "Honda Civic '11",
+      "price" : 55000.0,
+      "category"  : "Sedan"
+    },
+    { "id"  : 2,
+      "name" : "Honda Beat '97",
+      "price" : 14000.0,
+      "category"  : "Ultra-Compacto"
+    },
+    { "id"  : 3,
+      "name" : "Honda S2000 '04",
+      "price" : 245000.0,
+      "category"  : "Coupé"
+    },
+    { "id"  : 4,
+      "name" : "Honda Civic Type R '22",
+      "price" : 300000.0,
+      "category"  : "Sports Hatchback"
+    }
+  ]
+}
